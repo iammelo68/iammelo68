@@ -1,7 +1,6 @@
 # 🦑 Iam Melo
 
 > ## About me
-> <img src="https://github.com/iammelo68/iamb/blob/main/file.png?raw=true" alt="ilustração de um computador" min-width="175px" max-width="175px" width="175px" align="right">
 > I'm a Software Engineering student at Universidade Estadual do Pará. Also, I'm a java enthusiastic and Interested in back-end and mobile development.
 
 
